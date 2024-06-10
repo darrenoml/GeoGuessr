@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/part 1/java-map/dist/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/part 1/java-map/dist/lib/jxmapviewer2-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
